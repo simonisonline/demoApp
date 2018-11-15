@@ -1,0 +1,12 @@
+{
+    "name": "sionisonline/demo-app",
+    "description": "demo",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Demo",
+            "email": "demo@demo.nl"
+        }
+    ],
+    "require": {}
+}
